@@ -2,6 +2,8 @@ name: Energy monitoring smartplug
 products:
   - id: 2iepauebcvo74ujc
     name: Aubess 20A
+  - id: txarpriq7ikhotfy
+    name: Workzone Smart Wifi Socket
   - id: wrz6vzch8htux2zp
     name: Elivco CB2S-16DL
   - id: 3lbgj7cu27nsmh0w
