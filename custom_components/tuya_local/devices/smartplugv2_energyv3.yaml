@@ -6,6 +6,8 @@ products:
     name: Elivco CB2S-16DL
   - id: 3lbgj7cu27nsmh0w
     name: AT-Q-SY2-JWT
+  - id: txarpriq7ikhotfy
+    name: Workzone Smart Wifi Socket
 primary_entity:
   entity: switch
   class: outlet
